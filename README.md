@@ -19,3 +19,7 @@ Questions we might propose:
 3. Is there a combination of features that makes a patient more likely to no show (i.e., Age plus comorbidity)?
 
 
+Credits:
+Udacity : Udacity.com
+www.analyticsvidhya.com
+Kaggle data for medical no-shows: (1) https://www.kaggle.com/joniarroba/noshowappointments
